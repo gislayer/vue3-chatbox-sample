@@ -2,6 +2,8 @@
 
 This is a sample chatbox for Vue3. You can copy past requeired components.
 
+![vue3-chatbox-sample](https://raw.githubusercontent.com/gislayer/vue3-chatbox-sample/main/src/assets/screen1.png)
+
 ### 1. ChatBox.vue Main Component
 This is main vue component for ChatBox. It has providers and methods
 
